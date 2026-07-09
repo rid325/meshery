@@ -18,12 +18,14 @@ weight: 20
 2. [Relationship Classification](#relationship-visualizations)
 
 **Development:**
-3. [Relationship Definition](#relationship-definitions)
-4. [Relationship Scopes](#relationship-scopes)
+
+1. [Relationship Definition](#relationship-definitions)
+2. [Relationship Scopes](#relationship-scopes)
 
 **Postwork:**
-5. [Relationship Testing](#relationship-testing)
-6. [Relationship Contribution](#relationship-contribution)
+
+1. [Relationship Testing](#relationship-testing)
+2. [Relationship Contribution](#relationship-contribution)
 
 ## Prework
 
